@@ -1,0 +1,7 @@
+automatic save:
+pro: no need to remember; less data lost
+con: too many unnecessary versions
+
+manually:
+pro: more logic changes
+con: will lose data if you forget
