@@ -1,0 +1,9 @@
+The first version works normally but after changes were made, it did not work out. Therefore bug happens where the changes were.
+
+How can you use the commands git log and git diff to view the history of files?
+
+find the changes decrition from git log and compare.
+
+How might using version control make you more confident to make changes that could break something?
+
+because i can always go back and find out what goes wrong.
